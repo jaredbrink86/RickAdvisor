@@ -2,7 +2,7 @@
 import React from 'react';
 import { Component } from 'react';
 import Header from '../header/Header.jsx';
-import styles from './index.css';
+import styles from './app.css';
 import AmenitiesList from '../AmenitiesList/AmenitiesList.jsx';
 import RoomFeaturesList from '../RoomFeaturesList/RoomFeaturesList.jsx';
 import GoodToKnowList from '../GoodToKnowList/GoodToKnowList.jsx';
