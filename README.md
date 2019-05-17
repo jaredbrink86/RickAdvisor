@@ -58,7 +58,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Related Projects
 
 - https://github.com/rickadviser/gabe-reviews-service
-- https://github.com/rickadviser/Jared-About-Service
 - https://github.com/rickadviser/RickMorrisonService
 - https://github.com/rickadviser/Pete_Location
 
