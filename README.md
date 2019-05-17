@@ -4,7 +4,7 @@ This is a full stack web application that was built using service-oriented archi
 
 # Live Demo
 
-![](name-of-giphy.gif)
+![](About_Microservice.gif)
 
 ## Getting Started
 
